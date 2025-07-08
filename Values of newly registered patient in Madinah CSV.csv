@@ -1,0 +1,1289 @@
+DECEASED_DESC,SEX,NATIONALITY,MARITAL_TYPE,REGION,LOCATION,DEPARTMENT,YEAR
+Active,Male,Saudi,Single,Western Region,MADINAH,Neurosciences,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Single,Northern Region,MADINAH,Radiology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Radiology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Urology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,NON-Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,NON-Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,NON-Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Urology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Surgery,2025
+Active,Female,NON-Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Radiology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Neurosciences,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Neurosciences,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Divorced,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Adult Critical Care,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Deceased,Female,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,NON-Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Single,Northern Region,MADINAH,Oncology,2025
+Inactive,Female,Saudi,Single,Northern Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Married,Northern Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Widowed,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Unknown,NON-Saudi,Unknown,Western Region,MADINAH,Emergency Medical Service,2025
+Active,Unknown,NON-Saudi,Unknown,Western Region,MADINAH,Emergency Medical Service,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Divorced,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Central Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Inactive,Female,Saudi,Single,Northern Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Married,Southern Region,MADINAH,Radiology,2025
+Inactive,Female,Saudi,Single,Northern Region,MADINAH,Radiology,2025
+Active,Female,Saudi,Single,Central Region,MADINAH,Pediatric Oncology,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Pediatric Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Divorced,Northern Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Southern Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Urology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Married,Northern Region,MADINAH,Oncology,2025
+Active,Male,NON-Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,NON-Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,NON-Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,NON-Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,NON-Saudi,Divorced,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,NON-Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Divorced,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,NON-Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Married,Southern Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Unknown,Western Region,MADINAH,Medicine,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,NON-Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Widowed,Northern Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Neurosciences,2025
+Active,Female,Saudi,Widowed,Northern Region,MADINAH,Neurosciences,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Neurosciences,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Opthalmology,2025
+Deceased,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Orthopaedics,2025
+Inactive,Female,Saudi,Single,Northern Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Single,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Deceased,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Divorced,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Married,Northern Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Urology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Unknown,Western Region,MADINAH,Medicine,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Urology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Female,Saudi,Divorced,Northern Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,NON-Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Divorced,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Radiology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Widowed,Southern Region,MADINAH,Radiology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Radiology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Radiology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Pediatric Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,NON-Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Deceased,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Neurosciences,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Neurosciences,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Widowed,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Unknown,NON-Saudi,Unknown,Western Region,MADINAH,Emergency Medical Service,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Inactive,Male,Saudi,Single,Northern Region,MADINAH,Adult Critical Care,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Married,Northern Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Neurosciences,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Widowed,Northern Region,MADINAH,Radiology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Radiology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Unknown,Western Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Divorced,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,NON-Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Widowed,Southern Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,NON-Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,NON-Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,NON-Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,NON-Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Deceased,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Inactive,Male,Saudi,Married,Southern Region,MADINAH,Radiology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Southern Region,MADINAH,Radiology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Radiology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Radiology,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Radiology,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Pediatric Oncology,2025
+Active,Female,NON-Saudi,Married,Northern Region,MADINAH,Pediatric Oncology,2025
+Active,Male,NON-Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Pediatric Oncology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Neurosciences,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Neurosciences,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Neurosciences,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Dentistry,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Divorced,Northern Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Single,Northern Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Divorced,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Unknown,NON-Saudi,Unknown,Western Region,MADINAH,Emergency Medical Service,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Southern Region,MADINAH,Radiology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Radiology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Married,Central Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Single,Eastern Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,NON-Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,NON-Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Married,Northern Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Neurosciences,2025
+Active,Female,NON-Saudi,Single,Northern Region,MADINAH,Neurosciences,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Neurosciences,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Neurosciences,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Divorced,Northern Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Adult Critical Care,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,NON-Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Single,Northern Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Oncology,2025
+Deceased,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Divorced,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Divorced,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Unknown,NON-Saudi,Unknown,Western Region,MADINAH,Emergency Medical Service,2025
+Active,Unknown,NON-Saudi,Unknown,Western Region,MADINAH,Emergency Medical Service,2025
+Active,Unknown,NON-Saudi,Unknown,Western Region,MADINAH,Emergency Medical Service,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Urology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgical Oncology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Radiology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Organ Transplant Center,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Adult Critical Care,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Urology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Urology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,NON-Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,NON-Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Deceased,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Radiology,2025
+Inactive,Female,Saudi,Married,Northern Region,MADINAH,Radiology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Married,Northern Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Neurosciences,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Neurosciences,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Neurosciences,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Dentistry,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Oncology,2025
+Inactive,Female,Saudi,Married,Northern Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Deceased,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,NON-Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Unknown,NON-Saudi,Unknown,Western Region,MADINAH,Emergency Medical Service,2025
+Active,Unknown,NON-Saudi,Unknown,Western Region,MADINAH,Emergency Medical Service,2025
+Active,Unknown,NON-Saudi,Unknown,Western Region,MADINAH,Emergency Medical Service,2025
+Active,Unknown,NON-Saudi,Unknown,Western Region,MADINAH,Emergency Medical Service,2025
+Inactive,Female,Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Married,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Female,Saudi,Married,Northern Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Divorced,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Divorced,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,NON-Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Radiology,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Pediatric Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Orthopaedics,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Urology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Deceased,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,NON-Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Radiology,2025
+Inactive,Female,Saudi,Single,Southern Region,MADINAH,Radiology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,NON-Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Neurosciences,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Neurosciences,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Neurosciences,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Neurosciences,2025
+Deceased,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Inactive,Female,Saudi,Widowed,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Widowed,Northern Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Divorced,Northern Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Unknown,NON-Saudi,Unknown,Western Region,MADINAH,Emergency Medical Service,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Urology,2025
+Active,Female,NON-Saudi,Married,Western Region,MADINAH,Medicine,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Surgical Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Radiology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,NON-Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Central Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Deceased,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Inactive,Female,Saudi,Married,Northern Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Urology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Urology,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Deceased,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Divorced,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,NON-Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Polyclinics & Family Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Urology,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Medicine,2025
+Inactive,Female,Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Southern Region,MADINAH,Radiology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatric Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Unknown,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Northern Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Divorced,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Central Region,MADINAH,Surgery,2025
+Inactive,Female,NON-Saudi,Married,Western Region,MADINAH,Surgery,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Neurosciences,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Neurosciences,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Neurosciences,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Neurosciences,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Opthalmology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Widowed,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Divorced,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Northern Region,MADINAH,Otolaryngology,2025
+Active,Female,Saudi,Single,Northern Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Otolaryngology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Surgery,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Unknown,NON-Saudi,Unknown,Western Region,MADINAH,Emergency Medical Service,2025
+Active,Unknown,NON-Saudi,Unknown,Western Region,MADINAH,Emergency Medical Service,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Inactive,Female,Saudi,Single,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Pediatrics,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Urology,2025
+Active,Male,Saudi,Married,Northern Region,MADINAH,Urology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Inactive,Female,Saudi,Single,Northern Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Medicine,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Medicine,2025
+Active,Female,Saudi,Single,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Inactive,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Male,Saudi,Married,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Otolaryngology,2025
+Inactive,Male,Saudi,Married,Western Region,MADINAH,Surgery,2025
+Deceased,Male,Saudi,Single,Western Region,MADINAH,Oncology,2025
+Active,Female,Saudi,Divorced,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Married,Western Region,MADINAH,Obstetrics & Gynaecology,2025
+Active,Female,Saudi,Divorced,Western Region,MADINAH,Obstetrics & Gynaecology,2025
